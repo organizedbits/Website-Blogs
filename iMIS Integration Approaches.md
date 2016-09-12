@@ -11,12 +11,13 @@ Omnis | eSeries (Cold Fusion) | COM IBO
 &nbsp; | &nbsp; | Xtender
 
 **Approach**
-* Add custom cold fusion pages inside
 
-**Pros**
-
-**Cons**
-    
-    
-
-
+1. Add custom cold fusion pages directly inside of the eSeries website.  These pages may or may not exist within their own sub-directory.
+    * **Pros**
+      *
+      *
+      *
+    * **Cons**
+      *
+      *
+      *
