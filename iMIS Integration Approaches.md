@@ -5,19 +5,31 @@ For this analysis we'll divide iMIS into 3 seperate areas.  The first column wil
 Let's get started!
 ## iMIS 10
 
-**Back Office** | **Web** | **Integration Support**
-----------------|---------|------------------------
-Omnis | eSeries (Cold Fusion) | COM IBO
-&nbsp; | &nbsp; | Xtender
+**Back Office** | **Web** | **Sql** | **Integration Support**
+----------------|---------|---------|---------------
+Omnis | eSeries (Cold Fusion) | Sql Server | COM IBO
+&nbsp; | &nbsp; | &nbsp; |Xtender
 
 **Approach**
 
 1. Add custom cold fusion pages directly inside of the eSeries website.  These pages may or may not exist within their own sub-directory.
     * **Pros**
-      *
-      *
-      *
+      * point 1
+      * point 2
     * **Cons**
-      *
-      *
-      *
+      * point 1
+      * point 2
+ 2. Edit existing ASI cold fusion pages directly.
+    * **Pros**
+      * point 1
+      * point 2
+    * **Cons**
+      * point 1
+      * point 2
+ 2. Edit existing ASI cold fusion pages directly.
+    * **Pros**
+      * point 1
+      * point 2
+    * **Cons**
+      * point 1
+      * point 2
